@@ -1,12 +1,12 @@
-# Group_Project_1
-Happiness Explained: An Exploration of Happiness Scores
+# World Happiness Analysis
+## Happiness Explained: An Exploration of Happiness Scores
 
-Core Message: 
+### Core Message: 
 
 According the the World Happiness Report there are several subjective well-being measures (SWB) that can be used to measure happiness. Our main objective was to explore, the measures of subjective well-being to determine which ones had the most influence on happiness. We also to set out to examine the different factors to determine the correlation of each of these with overall happiness.
 
 
-Research Questions:
+### Research Questions:
 
 1. Which countries had the lowest happiness score? highest happiness score? (data from 2017, 2018, and 2019). 
 2. Which of the measures of SWB (i.e., social support, healthy life expectancy, generosity, freedom to make life choices, GDP per capita, and perception of corruption) are most highly correlated with a higher happiness score?
